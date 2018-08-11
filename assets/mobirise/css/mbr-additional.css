@@ -4147,9 +4147,33 @@ body {
   text-align: center;
   color: #cc2952;
 }
+.cid-r0rmINuiwd {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #cc2952;
+}
+.cid-r0rmINuiwd .line {
+  background-color: #cc2952;
+  color: #cc2952;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-r0rmINuiwd .section-text {
+  padding: 2rem 0;
+  color: #ffffff;
+}
+.cid-r0rmINuiwd .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-r0rmINuiwd .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-qVVCF7o9oQ {
-  padding-top: 75px;
-  padding-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-qVVCF7o9oQ .testimonial-text {
@@ -4171,28 +4195,76 @@ body {
 .cid-qVVCF7o9oQ .testimonial-text SPAN {
   color: #232323;
 }
-.cid-qVVNORR2S0 {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #efefef;
+.cid-r0rnCOrVxY {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #cc2952;
 }
-.cid-qVVNORR2S0 .testimonial-text {
+.cid-r0rnCOrVxY .line {
+  background-color: #cc2952;
+  color: #cc2952;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-r0rnCOrVxY .section-text {
+  padding: 2rem 0;
+  color: #ffffff;
+}
+.cid-r0rnCOrVxY .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-r0rnCOrVxY .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-r0rnRWu7b5 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-r0rnRWu7b5 .testimonial-text {
   font-style: italic;
   font-weight: 300;
   color: #232323;
 }
-.cid-qVVNORR2S0 .mbr-author-name {
+.cid-r0rnRWu7b5 .mbr-author-name {
   font-weight: bold;
   color: #232323;
 }
-.cid-qVVNORR2S0 .media-container-row {
+.cid-r0rnRWu7b5 .media-container-row {
   word-wrap: break-word;
   word-break: break-word;
 }
-.cid-qVVNORR2S0 .mbr-author-desc {
+.cid-r0rnRWu7b5 .mbr-author-desc {
   color: #232323;
 }
-.cid-qVVNORR2S0 .testimonial-text SPAN {
+.cid-r0rnRWu7b5 .testimonial-text SPAN {
+  color: #232323;
+}
+.cid-r0rnWTv6gl {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-r0rnWTv6gl .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+  color: #232323;
+}
+.cid-r0rnWTv6gl .mbr-author-name {
+  font-weight: bold;
+  color: #232323;
+}
+.cid-r0rnWTv6gl .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+.cid-r0rnWTv6gl .mbr-author-desc {
+  color: #232323;
+}
+.cid-r0rnWTv6gl .testimonial-text SPAN {
   color: #232323;
 }
 .cid-qVVPbsqFyg {
